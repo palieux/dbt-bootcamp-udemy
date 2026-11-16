@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+logs/
+*.log
+venv.bat
+venv.ps1
