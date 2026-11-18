@@ -1,1 +1,1 @@
-.\.venv\Scripts\activate
+cd .venv\Scripts
